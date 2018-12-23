@@ -217,7 +217,7 @@ const equals = {
 
   '√': (firstOperand, secondOperand) => Math.sqrt(firstOperand),
 
-//  '%':
+//'%':
 
   '=': (firstOperand, secondOperand) => secondOperand
 };
